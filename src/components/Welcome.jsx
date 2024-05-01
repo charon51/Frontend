@@ -6,7 +6,7 @@ const Welcome = () => {
     return (
         <section className="min-h-screen pt-[72px] flex flex-col items-center">
             <div className="flex flex-col gap-10 font-black items-center py-10">
-            <h2 className="text-orange-500 text-3xl md:text-4xl lg:text-5xl">Bienvenido!</h2>
+            <h2 className="text-orange-500 text-3xl md:text-4xl lg:text-5xl">AAAAAAAAAAAAAAA</h2>
                 <p className="break-words text-center text-slate-900 font-bold max-w-xl px-5 text-xl md:text-2xl lg:text-3xl">
                     Busca las recetas perfectas para ti y obtén recomendaciones basadas en tus preferencias y los ingredientes que tienes en casa.
                 </p>
